@@ -1,0 +1,11 @@
+*{
+  box-sizing: border-box;
+}
+
+html{
+  background-image: url("img/star-wars-clone-wars.gif");
+  background-size: cover;
+  color: white;
+}
+
+
